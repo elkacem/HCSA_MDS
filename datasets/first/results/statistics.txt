@@ -1,0 +1,336 @@
+Instance: N1-80-400-120
+Best Solution: (5, 6.0)
+Worst Solution: (6, 3.41)
+Best Solution Time: 6.0
+Worst Solution Time: 3.41
+Mean: 5.1
+Standard Deviation: 0.3
+
+Instance: N1-80-400-110
+Best Solution: (6, 0.0)
+Worst Solution: (6, 0.0)
+Best Solution Time: 0.0
+Worst Solution Time: 0.0
+Mean: 6.0
+Standard Deviation: 0.0
+
+Instance: N1-80-400-100
+Best Solution: (7, 4.35)
+Worst Solution: (7, 4.35)
+Best Solution Time: 4.35
+Worst Solution Time: 4.35
+Mean: 7.0
+Standard Deviation: 0.0
+
+Instance: N1-80-400-90
+Best Solution: (8, 0.0)
+Worst Solution: (8, 0.0)
+Best Solution Time: 0.0
+Worst Solution Time: 0.0
+Mean: 8.0
+Standard Deviation: 0.0
+
+Instance: N1-80-400-80
+Best Solution: (9, 1.31)
+Worst Solution: (9, 1.31)
+Best Solution Time: 1.31
+Worst Solution Time: 1.31
+Mean: 9.0
+Standard Deviation: 0.0
+
+Instance: N1-80-400-70
+Best Solution: (12, 0.59)
+Worst Solution: (12, 0.59)
+Best Solution Time: 0.59
+Worst Solution Time: 0.59
+Mean: 12.0
+Standard Deviation: 0.0
+
+Instance: N1-80-400-60
+Best Solution: (15, 0.0)
+Worst Solution: (15, 0.0)
+Best Solution Time: 0.0
+Worst Solution Time: 0.0
+Mean: 15.0
+Standard Deviation: 0.0
+
+Instance: N2-100-600-120
+Best Solution: (9, 3.17)
+Worst Solution: (10, 0.06)
+Best Solution Time: 3.17
+Worst Solution Time: 0.06
+Mean: 9.25
+Standard Deviation: 0.43
+
+Instance: N2-100-600-110
+Best Solution: (11, 0.43)
+Worst Solution: (11, 0.43)
+Best Solution Time: 0.43
+Worst Solution Time: 0.43
+Mean: 11.0
+Standard Deviation: 0.0
+
+Instance: N2-100-600-100
+Best Solution: (13, 7.06)
+Worst Solution: (14, 0.02)
+Best Solution Time: 7.06
+Worst Solution Time: 0.02
+Mean: 13.15
+Standard Deviation: 0.36
+
+Instance: N2-100-600-90
+Best Solution: (15, 0.53)
+Worst Solution: (15, 0.53)
+Best Solution Time: 0.53
+Worst Solution Time: 0.53
+Mean: 15.0
+Standard Deviation: 0.0
+
+Instance: N2-100-600-80
+Best Solution: (18, 0.17)
+Worst Solution: (18, 0.17)
+Best Solution Time: 0.17
+Worst Solution Time: 0.17
+Mean: 18.0
+Standard Deviation: 0.0
+
+Instance: N3-200-700-120
+Best Solution: (14, 3.09)
+Worst Solution: (14, 3.09)
+Best Solution Time: 3.09
+Worst Solution Time: 3.09
+Mean: 14.0
+Standard Deviation: 0.0
+
+Instance: N3-200-700-110
+Best Solution: (16, 8.4)
+Worst Solution: (17, 2.49)
+Best Solution Time: 8.4
+Worst Solution Time: 2.49
+Mean: 16.65
+Standard Deviation: 0.48
+
+Instance: N3-200-700-100
+Best Solution: (18, 4.7)
+Worst Solution: (19, 2.41)
+Best Solution Time: 4.7
+Worst Solution Time: 2.41
+Mean: 18.15
+Standard Deviation: 0.36
+
+Instance: N3-200-700-90
+Best Solution: (23, 7.57)
+Worst Solution: (24, 3.65)
+Best Solution Time: 7.57
+Worst Solution Time: 3.65
+Mean: 23.5
+Standard Deviation: 0.5
+
+Instance: N3-200-700-80
+Best Solution: (26, 11.32)
+Worst Solution: (28, 2.47)
+Best Solution Time: 11.32
+Worst Solution Time: 2.47
+Mean: 27.45
+Standard Deviation: 0.59
+
+Instance: N3-200-700-70
+Best Solution: (32, 4.06)
+Worst Solution: (34, 3.78)
+Best Solution Time: 4.06
+Worst Solution Time: 3.78
+Mean: 32.45
+Standard Deviation: 0.59
+
+Instance: N4-200-1000-160
+Best Solution: (17, 0.68)
+Worst Solution: (17, 0.68)
+Best Solution Time: 0.68
+Worst Solution Time: 0.68
+Mean: 17.0
+Standard Deviation: 0.0
+
+Instance: N4-200-1000-150
+Best Solution: (17, 4.55)
+Worst Solution: (19, 1.9)
+Best Solution Time: 4.55
+Worst Solution Time: 1.9
+Mean: 17.95
+Standard Deviation: 0.74
+
+Instance: N4-200-1000-140
+Best Solution: (20, 17.03)
+Worst Solution: (22, 3.94)
+Best Solution Time: 17.03
+Worst Solution Time: 3.94
+Mean: 20.95
+Standard Deviation: 0.59
+
+Instance: N4-200-1000-130
+Best Solution: (23, 2.28)
+Worst Solution: (23, 2.28)
+Best Solution Time: 2.28
+Worst Solution Time: 2.28
+Mean: 23.0
+Standard Deviation: 0.0
+
+Instance: N4-200-1000-120
+Best Solution: (23, 8.22)
+Worst Solution: (24, 3.74)
+Best Solution Time: 8.22
+Worst Solution Time: 3.74
+Mean: 23.3
+Standard Deviation: 0.46
+
+Instance: N4-200-1000-110
+Best Solution: (30, 5.7)
+Worst Solution: (31, 10.68)
+Best Solution Time: 5.7
+Worst Solution Time: 10.68
+Mean: 30.35
+Standard Deviation: 0.48
+
+Instance: N4-200-1000-100
+Best Solution: (35, 6.48)
+Worst Solution: (38, 4.67)
+Best Solution Time: 6.48
+Worst Solution Time: 4.67
+Mean: 36.15
+Standard Deviation: 1.01
+
+Instance: N5-250-1500-160
+Best Solution: (34, 3.48)
+Worst Solution: (35, 5.01)
+Best Solution Time: 3.48
+Worst Solution Time: 5.01
+Mean: 34.15
+Standard Deviation: 0.36
+
+Instance: N5-250-1500-150
+Best Solution: (37, 4.6)
+Worst Solution: (38, 2.45)
+Best Solution Time: 4.6
+Worst Solution Time: 2.45
+Mean: 37.5
+Standard Deviation: 0.5
+
+Instance: N5-250-1500-140
+Best Solution: (40, 10.71)
+Worst Solution: (41, 4.18)
+Best Solution Time: 10.71
+Worst Solution Time: 4.18
+Mean: 40.85
+Standard Deviation: 0.36
+
+Instance: N5-250-1500-130
+Best Solution: (47, 4.03)
+Worst Solution: (48, 5.78)
+Best Solution Time: 4.03
+Worst Solution Time: 5.78
+Mean: 47.2
+Standard Deviation: 0.4
+
+Instance: N6-300-2000-220
+Best Solution: (31, 9.0)
+Worst Solution: (32, 5.11)
+Best Solution Time: 9.0
+Worst Solution Time: 5.11
+Mean: 31.7
+Standard Deviation: 0.46
+
+Instance: N6-300-2000-210
+Best Solution: (34, 14.59)
+Worst Solution: (36, 24.37)
+Best Solution Time: 14.59
+Worst Solution Time: 24.37
+Mean: 34.4
+Standard Deviation: 0.58
+
+Instance: N6-300-2000-200
+Best Solution: (36, 5.58)
+Worst Solution: (38, 3.09)
+Best Solution Time: 5.58
+Worst Solution Time: 3.09
+Mean: 36.5
+Standard Deviation: 0.67
+
+Instance: N6-300-2000-190
+Best Solution: (40, 11.71)
+Worst Solution: (43, 28.76)
+Best Solution Time: 11.71
+Worst Solution Time: 28.76
+Mean: 41.25
+Standard Deviation: 0.83
+
+Instance: N6-300-2000-180
+Best Solution: (43, 6.96)
+Worst Solution: (44, 6.9)
+Best Solution Time: 6.96
+Worst Solution Time: 6.9
+Mean: 43.45
+Standard Deviation: 0.5
+
+Instance: N7-350-2500-230
+Best Solution: (43, 24.34)
+Worst Solution: (45, 8.83)
+Best Solution Time: 24.34
+Worst Solution Time: 8.83
+Mean: 43.9
+Standard Deviation: 0.83
+
+Instance: N7-350-2500-220
+Best Solution: (44, 34.98)
+Worst Solution: (47, 9.35)
+Best Solution Time: 34.98
+Worst Solution Time: 9.35
+Mean: 45.25
+Standard Deviation: 0.7
+
+Instance: N7-350-2500-210
+Best Solution: (48, 50.93)
+Worst Solution: (51, 18.86)
+Best Solution Time: 50.93
+Worst Solution Time: 18.86
+Mean: 49.7
+Standard Deviation: 0.78
+
+Instance: N7-350-2500-200
+Best Solution: (54, 20.52)
+Worst Solution: (58, 9.01)
+Best Solution Time: 20.52
+Worst Solution Time: 9.01
+Mean: 55.85
+Standard Deviation: 0.85
+
+Instance: N8-400-3000-240
+Best Solution: (56, 42.05)
+Worst Solution: (58, 18.62)
+Best Solution Time: 42.05
+Worst Solution Time: 18.62
+Mean: 56.95
+Standard Deviation: 0.74
+
+Instance: N8-400-3000-230
+Best Solution: (60, 34.64)
+Worst Solution: (62, 23.32)
+Best Solution Time: 34.64
+Worst Solution Time: 23.32
+Mean: 60.85
+Standard Deviation: 0.57
+
+Instance: N8-400-3000-220
+Best Solution: (63, 50.58)
+Worst Solution: (66, 22.71)
+Best Solution Time: 50.58
+Worst Solution Time: 22.71
+Mean: 64.5
+Standard Deviation: 0.92
+
+Instance: N8-400-3000-210
+Best Solution: (68, 54.56)
+Worst Solution: (71, 8.81)
+Best Solution Time: 54.56
+Worst Solution Time: 8.81
+Mean: 69.45
+Standard Deviation: 0.74
+
